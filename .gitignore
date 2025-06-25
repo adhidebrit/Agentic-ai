@@ -1,7 +1,7 @@
 # .gitignore file
 
 # Ignore the virtual environment directory
-LangChain/.env
+.env
 LangChain/langchain-env
 
 pydantic/pydantic-env
